@@ -42,7 +42,7 @@ const Catalog = () => {
   // 4. RENDERIZADO PRINCIPAL
   return (
     <div className="container">
-      <h2>TechStore CI/CD funcionando 🚀</h2>
+      <h2>TechStore CI/CD funcionando 🚀🚀</h2>
       <div className="products-grid">
         {/* .map() es el ciclo For de React. Dibuja una tarjeta por cada producto */}
         {products.map((product) => (
